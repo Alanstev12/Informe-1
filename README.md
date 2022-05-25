@@ -35,9 +35,13 @@ Para su desarrollo debe evitarse en lo posible redactar párrafos continuos de t
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-En este punto se debe explicar cómo funcionan la implementación del circuito, programa o resolución de problemas.
-La solución deb estar en esta sección, no como un archivo anexo.
+## Ejercicios del libro ''5 principios de circuitos electricos'' de Floyd
+# Capitulo 1
+Exprese cada número fraccionario en notación científica:
+(a) 1/500 (b) 1/2000 (c) 1/5,000,000
 
+Exprese cada uno de los números siguientes en notación científica:
+(a) 0.0002  (b) 0.6   c)7.8 * 10-2
 4. VIDEO
 
 Aqui den estar el link de youtube de los videos en los que se explique el funcionamiento y la implementación del proyecto.
