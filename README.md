@@ -101,58 +101,97 @@ Para su desarrollo debe evitarse en lo posible redactar párrafos continuos de t
  
      Exprese cada número del problema 13 en ohms por medio de un prefijo métrico.
 
+![image](https://user-images.githubusercontent.com/105374427/170199786-2acccb38-4eac-4752-83ef-9f0a75b06f05.png)
 
      Exprese cada uno de los siguientes números como una cantidad precedida por un prefijo métrico:
      
      a)31*10^-3A     b)5.5*10^3V     c)20*10^-12F 
-     
+
+![image](https://user-images.githubusercontent.com/105374427/170199816-e7dde8b7-d596-4ec8-abc6-7d23057f182a.png)
+
+
      Exprese cada una de las cantidades siguientes por medio de prefijos métricos:
      
      a)2.5*10^-11   b) 8*10^9        c) 4.7*10^3
-     
+  
+ ![image](https://user-images.githubusercontent.com/105374427/170199853-9b224f9a-29ce-4e5b-bd6a-453c11935ffc.png)
+ 
+  
      Exprese cada cantidad en notación de ingeniería:
      
      a) 5uA     b) 43mV     c)275k      d)10MW
-     
+ 
+ ![image](https://user-images.githubusercontent.com/105374427/170199910-8913acc9-2754-42fc-a13b-90aca5c120f9.png)
+
+ 
      Determine lo siguiente:
     (a) El número de microamperes en 1 miliampere
     (b) El número de milivolts en 0.05 kilovolts
     (c) El número de megohms en 0.02 kilohms
-    (d) El número de kilowatts en 155 miliwatts
+        
+![image](https://user-images.githubusercontent.com/105374427/170199978-5def5629-6786-49ee-b2b9-7e2bbfe37474.png)
     
+
     Realice las siguientes operaciones
      a) 10k/(2.2k+10k)      b)250mV/50uV        c)1MW/2kW
-    
+   
+ ![image](https://user-images.githubusercontent.com/105374427/170200100-8d873864-31d4-49cc-8143-3802a121ffd7.png)
+
+   
 #CAPITULO 2
 
     ¿Cuál es la carga en coulombs del núcleo de un átomo de cloro?
     
-    
+  ![image](https://user-images.githubusercontent.com/105374427/170200163-5cdc5e1d-846b-412f-bf1d-c928a8181f67.png)
+
+  
     ¿Cuántos electrones se requieren para producir 80 mC (microcoulombs) de carga?
     
-    
+  ![image](https://user-images.githubusercontent.com/105374427/170200262-63c8c539-601a-4a87-947d-c6f59802deb9.png)
+
+  
     Se utilizan quinientos joules de energía para mover 100 C de carga por un resistor. ¿Cuál es el voltaje
     a través del resistor?
 
+![image](https://user-images.githubusercontent.com/105374427/170200290-72d22bf7-8c87-48ef-bb10-c5065cc2f4b0.png)
+
+
     ¿Cuánta energía utiliza una batería de 12 V para mover 2.5 C por un circuito?
     
-    
+![image](https://user-images.githubusercontent.com/105374427/170200318-a90379bf-a0c7-4db6-9367-2b61c437411e.png)
+
+
     Determine la corriente en cada uno de los siguientes casos:
     (a) 75 C en 1 s (b) 10 C en 0.5 s (c) 5 C en 2 s
+
+![image](https://user-images.githubusercontent.com/105374427/170200373-8747d108-59e5-4d56-a54f-95744c9ca358.png)
 
 
     ¿Cuánto tiempo requieren 10 C para fluir más allá de un punto si la corriente es de 5 A?
     
+![image](https://user-images.githubusercontent.com/105374427/170200436-b43cbd80-d86f-4a12-9a44-4185ff330674.png)
+
+    
     5.74  1017 electrones fluyen por un alambre en 250 ms. ¿Cuál es la corriente en amperes?
+    
+ ![image](https://user-images.githubusercontent.com/105374427/170200623-05c9c44d-8f09-4c5e-bcd1-62600f9b0fb0.png)
+
     
     Encuentre la resistencia correspondiente a las siguientes conductancias:
     (a) 0.1 S (b) 0.5 S (c) 0.02 S
 
+![image](https://user-images.githubusercontent.com/105374427/170200679-8ea859ac-0492-4463-b55c-69caf0b111f0.png)
+
+
     ¿En qué principio se basan los generadores eléctricos?
-    
+ 
+ 
+Se basan en el principio llamado induccion electromagnetica
+ 
     Cierta fuente de corriente proporciona 100 mA a 1 k de carga. Si la resistencia disminuye a 500 ,
     ¿cuál es la corriente en la carga?
 
+![image](https://user-images.githubusercontent.com/105374427/170200769-40e8a152-550e-4c15-99a2-71e8070c2634.png)
 
     Encuentre las resistencias mínima y máxima dentro de los límites de tolerancia para cada resistor del
     problema 21.
