@@ -195,33 +195,44 @@ Se basan en el principio llamado induccion electromagnetica
 
     Encuentre las resistencias mínima y máxima dentro de los límites de tolerancia para cada resistor del
     problema 21.
+![image](https://user-images.githubusercontent.com/105374427/170267711-67c08f56-61cd-4c16-8e1a-140fec65c5a9.png)
 
 
     Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 4 bandas:
     (a) café, negro, negro, oro
     (b) verde, café, verde, plata
     (c) azul, gris, negro, oro
+![image](https://user-images.githubusercontent.com/105374427/170267754-f9e1d6cb-6fdb-4adb-b5cf-fd7e53dbfe66.png)
 
     Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 5 bandas:
     (a) rojo, gris, violeta, rojo, café
     (b) azul, negro, amarillo, oro, café
     (c) blanco, naranja, café, café, café
+![image](https://user-images.githubusercontent.com/105374427/170267818-d7acca5e-d1ee-4874-8acc-2d92970ff2b2.png)
+
 
     El contacto ajustable de un potenciómetro lineal se coloca en el centro mecánico de su ajuste. Si la
     resistencia total es de 1000 , ¿cuál es la resistencia entre cada terminal y el contacto ajustable?
+![image](https://user-images.githubusercontent.com/105374427/170267858-ed242932-8ae8-4e8e-9aca-bb164ccea63e.png)
+
 
     Determine la resistencia y la tolerancia de cada resistor rotulado como sigue:
     (a) 4R7J (b) 5602M (c) 1501F
+![image](https://user-images.githubusercontent.com/105374427/170267896-8b398cf2-354d-4c41-ab53-4a082e25e8e8.png)
 
     Con el interruptor en una u otra posición, trace de nuevo el circuito de la figura 2-69(d) con un fusi-
     ble conectado para proteger el circuito contra corriente excesiva.
 
-![image](https://user-images.githubusercontent.com/105374427/170189187-c83b3495-dbc6-4414-8ccc-2fd7ba34fca7.png)
+![image](https://user-images.githubusercontent.com/105374427/170267962-0d2a65bb-73b3-4e7f-ad17-8f7131570af1.png)
+![image](https://user-images.githubusercontent.com/105374427/170268001-c055e889-28cd-4816-a12a-5961341bb898.png)
+
     
     ¿A través de que resistor de la figura 2-70 siempre hay corriente, sin importar la posición de los inte-
     rruptores?
 ![image](https://user-images.githubusercontent.com/105374427/170189277-c889be5c-9aa1-433e-8c2b-4990d0a91331.png)
-    
+  
+  A traves de la resistencia R5
+  
     Las diferentes secciones de un sistema estereofónico están representadas por los bloques que
     aparecen en la figura 2-71. Muestre cómo se puede utilizar un solo interruptor para conectar el
     fonógrafo, el reproductor de discos compactos, la casetera, el sintonizador de AM, o el sintonizador
@@ -230,25 +241,31 @@ Se basan en el principio llamado induccion electromagnetica
     
 ![image](https://user-images.githubusercontent.com/105374427/170189467-7ef5ff8d-f486-4e2d-8f57-bdfefaa137ee.png)
     
+ ![image](https://user-images.githubusercontent.com/105374427/170271693-225c8943-e123-4872-aa3a-a06a91372fdd.png)
+   
      Explique cómo mediría la resistencia de R2 en la figura 2-72.
  ![image](https://user-images.githubusercontent.com/105374427/170189605-4289ce22-ca3e-4330-a68a-2dbbe167ab3d.png)
+![image](https://user-images.githubusercontent.com/105374427/170271740-f782532b-05ef-44ce-bd85-7f9633c5e9a1.png)
 
     En la figura 2-73, indique cómo se conecta un amperímetro para medir la corriente que sale de la
     fuente de voltaje sin importar la posición del interruptor.
     
 ![image](https://user-images.githubusercontent.com/105374427/170189677-ebece4c8-3a83-48da-b86f-3bccf4cf2261.png)
-    
+   ![image](https://user-images.githubusercontent.com/105374427/170271793-1a5b5b10-51b4-4fe4-9849-1394647c76b7.png)
+ 
     Muestre la colocación apropiada de los voltímetros para medir el voltaje a través de cada resistor
     presente en la figura 2-70.
     
 ![image](https://user-images.githubusercontent.com/105374427/170189773-a3459b4e-0eac-4ccd-92cf-139189f3eb2e.png)
-    
+    ![image](https://user-images.githubusercontent.com/105374427/170271900-2a21dd5d-e5d3-4ff2-b6de-77eed2f250e9.png)
+
     ¿Cuánta resistencia está midiendo el ohmmetro de la figura 2-75?
 ![image](https://user-images.githubusercontent.com/105374427/170189989-c8f9f7f9-3e99-40ba-8de8-ffdcfcee1a6e.png)
     
-    
+  1000ohmns
+  
     ¿Cuál es la resolución máxima de un multímetro digital de 4 1/2 dígitos?
-    
+   Un multímetro de 4 ½ dígitos mostrará hasta 19.999 recuentos de resolución.
     
 4. VIDEO
 
