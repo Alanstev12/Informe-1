@@ -47,8 +47,15 @@ Para su desarrollo debe evitarse en lo posible redactar párrafos continuos de t
 
     Exprese cada uno de los números siguientes como un número decimal regular:
 
-    2x10^5
+    a) 2x10^5      b)5,4*10^-9      c)1.0*10^1
+    
+    Exprese cada número de los siguientes como un número decimal regular:
+     
+     a) 4,5*10^-6  b) 8*10^-9       c)4*10^-12
+     
+     Efectúe las siguientes sustracciones:
 
+     
 4. VIDEO
 
 Aqui den estar el link de youtube de los videos en los que se explique el funcionamiento y la implementación del proyecto.
