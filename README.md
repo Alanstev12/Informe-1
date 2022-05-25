@@ -81,7 +81,7 @@ Para su desarrollo debe evitarse en lo posible redactar párrafos continuos de t
      
      Exprese cada una de las cantidades siguientes por medio de prefijos métricos:
      
-     a)2.5*10^-11
+     a)2.5*10^-11 b)
      
 
 
