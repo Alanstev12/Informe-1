@@ -76,8 +76,14 @@ Para su desarrollo debe evitarse en lo posible redactar párrafos continuos de t
      
      a)31*10^-3A     b)5.5*10^3V     c)20*10^-12F
      
+     Exprese cada uno de los siguientes números como una cantidad precedida por un prefijo métrico:
      
-![image](https://user-images.githubusercontent.com/105374427/170185495-67a94bad-7ad3-4e62-996d-6626d1700c3d.png)
+     
+     Exprese cada una de las cantidades siguientes por medio de prefijos métricos:
+     
+     a)2.5*10^-11
+     
+
 
 4. VIDEO
 
