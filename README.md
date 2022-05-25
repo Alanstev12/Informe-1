@@ -73,15 +73,25 @@ Para su desarrollo debe evitarse en lo posible redactar párrafos continuos de t
      a)(32*10^-3)(56*10^3)       b)(1.2*10^6)(1.2*10^-6^)      c) 100(55*10^-3)
      
      Exprese cada número del problema 13 en ohms por medio de un prefijo métrico.
-     
-     a)31*10^-3A     b)5.5*10^3V     c)20*10^-12F
-     
+             
      Exprese cada uno de los siguientes números como una cantidad precedida por un prefijo métrico:
      
+     a)31*10^-3A     b)5.5*10^3V     c)20*10^-12F 
      
      Exprese cada una de las cantidades siguientes por medio de prefijos métricos:
      
-     a)2.5*10^-11 b)
+     a)2.5*10^-11   b) 8*10^9        c) 4.7*10^3
+     
+     Exprese cada cantidad en notación de ingeniería:
+     
+     a) 5uA     b) 43mV     c)275k      d)10MW
+     
+     Determine lo siguiente:
+    (a) El número de microamperes en 1 miliampere
+    (b) El número de milivolts en 0.05 kilovolts
+    (c) El número de megohms en 0.02 kilohms
+    (d) El número de kilowatts en 155 miliwatts
+    
      
 
 
