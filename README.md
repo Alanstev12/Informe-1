@@ -30,7 +30,7 @@ Considerar la Taxonomía de Bloom
 
 ![Mapa conceptual sencillo (1) (1)_pages-to-jpg-0003](https://user-images.githubusercontent.com/105374427/170283843-5e78b342-6107-45c1-8038-e6532df942a3.jpg)
 
-#3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+## 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 ##### Ejercicios del libro ''5 principios de circuitos electricos'' de Floyd
 ### Capitulo 1
