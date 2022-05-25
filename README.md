@@ -54,8 +54,29 @@ Para su desarrollo debe evitarse en lo posible redactar párrafos continuos de t
      a) 4,5*10^-6  b) 8*10^-9       c)4*10^-12
      
      Efectúe las siguientes sustracciones:
-
      
+     a) (3.2*10^12)-(1.1*10^12)     b) (2.6*10^8)-(1.3*10^7)        c)(1.5*10^-9)-(8*10^-13)
+     
+     Realice las siguientes divisiones:
+     a) (1*10^3)/(2.5*10^2)     b) (2.5*10-6)/(5*10^-8)      c)(4.2*108)/(2*10^-5)
+     
+     Exprese cada número en notación de ingeniería:
+     
+     a)2.35*10^5 	    b)7.32*10^7     c)1.333*10^9
+     
+     Exprese cada número en notación de ingeniería:
+     
+     a) 9.81*10^-3       b)4.82*10^-4     c)4.38*10^-7
+     
+     Multiplique los números siguientes y exprese cada resultado en notación de ingeniería:
+     
+     a)(32*10^-3)(56*10^3)       b)(1.2*10^6)(1.2*10^-6^)      c) 100(55*10^-3)
+     
+     Exprese cada número del problema 13 en ohms por medio de un prefijo métrico.
+     
+     a)31*10^-3A     b)5.5*10^3V     c)20*10^-12F
+     ![image](https://user-images.githubusercontent.com/105374427/170185495-67a94bad-7ad3-4e62-996d-6626d1700c3d.png)
+
 4. VIDEO
 
 Aqui den estar el link de youtube de los videos en los que se explique el funcionamiento y la implementación del proyecto.
