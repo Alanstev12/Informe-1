@@ -77,7 +77,7 @@ Para su desarrollo debe evitarse en lo posible redactar párrafos continuos de t
      a)31*10^-3A     b)5.5*10^3V     c)20*10^-12F
      
      
-     ![image](https://user-images.githubusercontent.com/105374427/170185495-67a94bad-7ad3-4e62-996d-6626d1700c3d.png)
+![image](https://user-images.githubusercontent.com/105374427/170185495-67a94bad-7ad3-4e62-996d-6626d1700c3d.png)
 
 4. VIDEO
 
