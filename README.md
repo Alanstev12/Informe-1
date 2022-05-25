@@ -41,39 +41,67 @@ Para su desarrollo debe evitarse en lo posible redactar párrafos continuos de t
 
       (a) 1/500 (b) 1/2000 (c) 1/5,000,000
 
+![image](https://user-images.githubusercontent.com/105374427/170199154-f008eef7-78fd-4c78-a339-e558183240ff.png)
+
+
     Exprese cada uno de los números siguientes en notación científica:
 
       (a) 0.0002  (b) 0.6   c)7.8 * 10-2
+      
+ ![image](https://user-images.githubusercontent.com/105374427/170199203-16999612-80c2-4fde-8426-65db346cdf46.png)
+     
 
     Exprese cada uno de los números siguientes como un número decimal regular:
 
     a) 2x10^5      b)5,4*10^-9      c)1.0*10^1
     
+ ![image](https://user-images.githubusercontent.com/105374427/170199258-dd549ba6-5aad-44df-9fd5-aacd4baa1793.png)
+
+    
     Exprese cada número de los siguientes como un número decimal regular:
      
      a) 4,5*10^-6  b) 8*10^-9       c)4*10^-12
      
+  ![image](https://user-images.githubusercontent.com/105374427/170199309-7b422d81-dd5d-4c5b-9139-e1300ec335c9.png)
+   
+     
      Efectúe las siguientes sustracciones:
      
      a) (3.2*10^12)-(1.1*10^12)     b) (2.6*10^8)-(1.3*10^7)        c)(1.5*10^-9)-(8*10^-13)
+  
+  ![image](https://user-images.githubusercontent.com/105374427/170199368-3a210f06-bb11-49fd-a8f8-70078419bce6.png)
+
      
      Realice las siguientes divisiones:
      a) (1*10^3)/(2.5*10^2)     b) (2.5*10-6)/(5*10^-8)      c)(4.2*108)/(2*10^-5)
+  
+  ![image](https://user-images.githubusercontent.com/105374427/170199449-36bdd958-62eb-4860-a6cb-5c11167a86f3.png)
+
      
      Exprese cada número en notación de ingeniería:
      
      a)2.35*10^5 	    b)7.32*10^7     c)1.333*10^9
      
+     
+ ![image](https://user-images.githubusercontent.com/105374427/170199496-f86d248a-3108-4702-8477-a5034ab414e0.png)
+
      Exprese cada número en notación de ingeniería:
      
      a) 9.81*10^-3       b)4.82*10^-4     c)4.38*10^-7
-     
+
+
+![image](https://user-images.githubusercontent.com/105374427/170199542-336a503b-f4c3-4419-bf44-8ebe899636a8.png)
+
      Multiplique los números siguientes y exprese cada resultado en notación de ingeniería:
      
      a)(32*10^-3)(56*10^3)       b)(1.2*10^6)(1.2*10^-6^)      c) 100(55*10^-3)
-     
+ 
+ ![image](https://user-images.githubusercontent.com/105374427/170199605-c4f238b8-858f-402c-ae3a-2b242bd1eb5c.png)
+
+ 
      Exprese cada número del problema 13 en ohms por medio de un prefijo métrico.
-             
+
+
      Exprese cada uno de los siguientes números como una cantidad precedida por un prefijo métrico:
      
      a)31*10^-3A     b)5.5*10^3V     c)20*10^-12F 
