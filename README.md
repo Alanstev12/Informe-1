@@ -3,9 +3,26 @@
 
 1. OBJETIVOS
 
-Conocer y recordar conceptos basicos para iniciar con el estudio de la electronica, asi mismo saber representar los elementos basicos que contiene un circuito, su funcionamiento y su forma de actuar en diferentes medios. Con esto iniciar en el estudio de la electronica general, estudiar circuitos basicos y conocer la simbologia de algunos elementos que nos serviran para armar diferentes circuitos en un ambiente de laboratorio, todo esto ya habiendo conocido los sistemas de seguridad para no correr ningun riesgo al manejar altos voltajes como voltajes bajos.
+Vamos a recordar como se utilizaba la notacion cientifica y como nos facilita el manejo de numeros con 
 
 
+Los objetivos deben responder claramente la pregunta ¿Qué investigar? 
+El objetivo de la investigación es el enunciado claro y preciso de las metas que se persiguen. En los objetivos de la investigación se detallan las acciones en las que debe emprender el investigador para contestar a las preguntas planteadas en la formulación y sistematización del problema y tiene como propósito el direccionar la investigación. 
+
+Los objetivos generales dan origen a objetivos específicos que indica lo que se pretende realizar en cada una de las etapas de la investigación. La suma de los objetivos específicos es igual al objetivo general y por tanto a los resultados esperados de la investigación. Conviene notar que son los objetivos específicos los que se investigan y no el objetivo general, ya que este se logra de los resultados. 
+
+Los objetivos de investigación deben cumplir ciertas características: 
+* Deben ser concretos, cuantificables, verificables 
+* Deben estar redactados utilizando verbos en infinitivo 
+* Deben ser alcanzables por el investigador. 
+* Tienen que estar ligados con el tiempo. 
+
+
+Deben presentar directa relación con el tema de investigación y entre sí mismos. Todo trabajo de investigación es evaluado por el logro de los objetivos mediante un proceso sistemático, los cuales deben haber sido previamente señalados y seleccionados al comienzo de la investigación. La sistematización hace posible el planeamiento de estrategias válidas para el logro de objetivos. Por esta razón los objetivos tienen que ser revisados en cada una de las etapas del proceso; el no hacerlo puede ocasionar fallas en la investigación con la misma intensidad en que se presentan fallas en los objetivos. 
+
+Al finalizar la investigación, los objetivos han de ser identificables con los resultados; es decir, toda la investigación deberá estar respondiendo a los objetivos propuestos. 
+
+Considerar la Taxonomía de Bloom
 
 2. MARCO TEÓRICO (RESUMEN)
 
@@ -16,20 +33,9 @@ Conocer y recordar conceptos basicos para iniciar con el estudio de la electroni
 
 ![Mapa conceptual sencillo (1) (1)_pages-to-jpg-0003](https://user-images.githubusercontent.com/105374427/170283843-5e78b342-6107-45c1-8038-e6532df942a3.jpg)
 
-## CAPITULO 2
-![10](https://user-images.githubusercontent.com/105374427/170407306-74fb6438-433c-4e16-8f14-a5800dc4803a.png)
-
-![11](https://user-images.githubusercontent.com/105374427/170407329-5950b33b-2cfe-4ae4-8950-902ab43640b8.png)
-
-
-![image](https://user-images.githubusercontent.com/105374427/170406817-9d3b101a-48ec-4d4e-ada7-7229ba6a2761.png)
-
-![image](https://user-images.githubusercontent.com/105374427/170406857-4b567bd0-285c-4dcb-abac-531514d6e141.png)
-
-
 ## 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-## Ejercicios del libro ''Principios de circuitos electricos'' de Floyd
+##### Ejercicios del libro ''5 principios de circuitos electricos'' de Floyd
 ### Capitulo 1
     Exprese cada número fraccionario en notación científica:
 
@@ -269,16 +275,12 @@ En el video se debe explicar 4 ejercicios o problemas.
 
 5. CONCLUSIONES
 
-La electronica es una rama en la que se utiliza diversos elementos para la construccion de circuitos, conocer el funcionamiento y el metodo de manipulacion de los elementos basicos nos ayudara a avanzar en el estudio de la misma, asi mismo manejar el dialecto con las terminologias de un electronico nos abre puertas al aprendizaje y comunicacion con expertos ya sea en libros o verbalmente, asi mismo saber como funcionan las  herramientas basicas, ayudara a la hora de la experimentacion para reconocer y no fallar en el armado de nuestros primeros circuitos electronicos   
+Se estable las conclusiones de cada asunto investigado, implicaciones para la teoría y resultados de las experiencias. Estos siempre estarán en relaciona los objetivos generales y específicos.
 
 6. BIBLIOGRAFÍA
 
+Emplear normas APA.
 
+RUBRICA
 
-      ARCHIE TECNOLOGY. (27 de 10 de 2017). TECNOLOGIA ELECTRONICA. Obtenido de https://tecnologiaelectron.blogspot.com/p/conceptos-y-fundamentos-de-electronica.html
-
-
-      FLOYD, T. L. (2007). Principios de circuitos eléctricos. Octava edición. Mexico: PEARSON EDUCACIÓN,.
-
-
-
+![](https://github.com/doalulema/InformeTarea/blob/main/Tarea.png)
