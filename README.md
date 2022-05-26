@@ -29,7 +29,7 @@ Conocer y recordar conceptos basicos para iniciar con el estudio de la electroni
 
 ## 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-##### Ejercicios del libro ''5 principios de circuitos electricos'' de Floyd
+## Ejercicios del libro ''Principios de circuitos electricos'' de Floyd
 ### Capitulo 1
     Exprese cada número fraccionario en notación científica:
 
