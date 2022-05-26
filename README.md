@@ -260,8 +260,8 @@ Se estable las conclusiones de cada asunto investigado, implicaciones para la te
 
 6. BIBLIOGRAFÍA
 
-Emplear normas APA.
+ARCHIE TECNOLOGY. (27 de 10 de 2017). TECNOLOGIA ELECTRONICA. Obtenido de https://tecnologiaelectron.blogspot.com/p/conceptos-y-fundamentos-de-electronica.html
 
-RUBRICA
+FLOYD, T. L. (2007). Principios de circuitos eléctricos. Octava edición. Mexico: PEARSON EDUCACIÓN,.
 
-![](https://github.com/doalulema/InformeTarea/blob/main/Tarea.png)
+
