@@ -250,8 +250,8 @@ Se basan en el principio llamado induccion electromagnetica
     
 4. VIDEO
 
-Aqui den estar el link de youtube de los videos en los que se explique el funcionamiento y la implementación del proyecto.
-En el video se debe explicar 4 ejercicios o problemas.
+https://youtu.be/kcRH2Z-oBCA
+
 
 
 5. CONCLUSIONES
