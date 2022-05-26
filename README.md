@@ -13,6 +13,15 @@ Conocer y recordar conceptos basicos para iniciar con el estudio de la electroni
 
 
 ![Mapa conceptual sencillo (1) (1)_pages-to-jpg-0003](https://user-images.githubusercontent.com/105374427/170283843-5e78b342-6107-45c1-8038-e6532df942a3.jpg)
+## CAPITULO 2
+
+![10](https://user-images.githubusercontent.com/105374427/170407306-74fb6438-433c-4e16-8f14-a5800dc4803a.png)
+
+![11](https://user-images.githubusercontent.com/105374427/170407329-5950b33b-2cfe-4ae4-8950-902ab43640b8.png)
+
+![image](https://user-images.githubusercontent.com/105374427/170406817-9d3b101a-48ec-4d4e-ada7-7229ba6a2761.png)
+
+![image](https://user-images.githubusercontent.com/105374427/170406857-4b567bd0-285c-4dcb-abac-531514d6e141.png)
 
 ## 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
