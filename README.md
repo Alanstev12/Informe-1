@@ -256,7 +256,7 @@ https://youtu.be/kcRH2Z-oBCA
 
 5. CONCLUSIONES
 
-Se estable las conclusiones de cada asunto investigado, implicaciones para la teoría y resultados de las experiencias. Estos siempre estarán en relaciona los objetivos generales y específicos.
+La electronica es una rama en la que se utiliza diversos elementos para la construccion de circuitos, conocer el funcionamiento y el metodo de manipulacion de los elementos basicos nos ayudara a avanzar en el estudio de la misma, asi mismo manejar el dialecto con las terminologias de un electronico nos abre puertas al aprendizaje y comunicacion con expertos ya sea en libros o verbalmente, asi mismo saber como funcionan las  herramientas basicas, ayudara a la hora de la experimentacion para reconocer y no fallar en el armado de nuestros primeros circuitos electronicos   
 
 6. BIBLIOGRAFÍA
 
