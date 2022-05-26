@@ -275,10 +275,10 @@ La electronica es una rama en la que se utiliza diversos elementos para la const
 
 
 
-        ARCHIE TECNOLOGY. (27 de 10 de 2017). TECNOLOGIA ELECTRONICA. Obtenido de https://tecnologiaelectron.blogspot.com/p/conceptos-y-fundamentos-de-electronica.html
+      ARCHIE TECNOLOGY. (27 de 10 de 2017). TECNOLOGIA ELECTRONICA. Obtenido de https://tecnologiaelectron.blogspot.com/p/conceptos-y-fundamentos-de-electronica.html
 
 
-        FLOYD, T. L. (2007). Principios de circuitos eléctricos. Octava edición. Mexico: PEARSON EDUCACIÓN,.
+      FLOYD, T. L. (2007). Principios de circuitos eléctricos. Octava edición. Mexico: PEARSON EDUCACIÓN,.
 
 
 
